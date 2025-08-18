@@ -22,7 +22,7 @@ namespace MyApp
             {
                 Console.WriteLine($"o aluno {nome}  é o mais velho com {idade} "); //aqui nao comcatenei achei melhor assim acho que se pricisar fazer operacoes posso fazer no print e nao salvar a variavel 
             }
-            if (idade2 > idade) // aqui as condlcoes sao excludentes poderia usar else if  para poupar processamento mais nao vou usar 
+            if (idade2 > idade) // aqui as condlcoes sao excludentes poderia usar else if  para poupar processamento mas nao vou usar 
             {
                 Console.WriteLine($"o aluno {nome2} é o mais velho com {idade2} ");
             }
