@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/gui/Área de Trabalho/projeto c#/projeto-c-sharrp/CSStart/CSStart.csproj": {}
+    "C:\\Users\\labsfiap\\Desktop\\gui\\projeto-c-sharrp\\CSStart\\CSStart.csproj": {}
   },
   "projects": {
-    "/home/gui/Área de Trabalho/projeto c#/projeto-c-sharrp/CSStart/CSStart.csproj": {
+    "C:\\Users\\labsfiap\\Desktop\\gui\\projeto-c-sharrp\\CSStart\\CSStart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gui/Área de Trabalho/projeto c#/projeto-c-sharrp/CSStart/CSStart.csproj",
+        "projectUniqueName": "C:\\Users\\labsfiap\\Desktop\\gui\\projeto-c-sharrp\\CSStart\\CSStart.csproj",
         "projectName": "CSStart",
-        "projectPath": "/home/gui/Área de Trabalho/projeto c#/projeto-c-sharrp/CSStart/CSStart.csproj",
-        "packagesPath": "/home/gui/.nuget/packages/",
-        "outputPath": "/home/gui/Área de Trabalho/projeto c#/projeto-c-sharrp/CSStart/obj/",
+        "projectPath": "C:\\Users\\labsfiap\\Desktop\\gui\\projeto-c-sharrp\\CSStart\\CSStart.csproj",
+        "packagesPath": "C:\\Users\\labsfiap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\labsfiap\\Desktop\\gui\\projeto-c-sharrp\\CSStart\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/gui/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\labsfiap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
