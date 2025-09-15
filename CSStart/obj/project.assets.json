@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\labsfiap\\Desktop\\gui\\projeto-c-sharrp\\CSStart\\CSStart.csproj",
+      "projectUniqueName": "C:\\Users\\labsfiap\\Desktop\\guilherme\\projeto-c-sharrp\\CSStart\\CSStart.csproj",
       "projectName": "CSStart",
-      "projectPath": "C:\\Users\\labsfiap\\Desktop\\gui\\projeto-c-sharrp\\CSStart\\CSStart.csproj",
+      "projectPath": "C:\\Users\\labsfiap\\Desktop\\guilherme\\projeto-c-sharrp\\CSStart\\CSStart.csproj",
       "packagesPath": "C:\\Users\\labsfiap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\labsfiap\\Desktop\\gui\\projeto-c-sharrp\\CSStart\\obj\\",
+      "outputPath": "C:\\Users\\labsfiap\\Desktop\\guilherme\\projeto-c-sharrp\\CSStart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

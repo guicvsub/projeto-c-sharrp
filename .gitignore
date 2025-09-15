@@ -1,0 +1,61 @@
+## Ignore arquivos de build e binários
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]emp/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+## Ignore arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore backups e configs locais
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+*.temp
+*.swp
+
+## Ignore pacotes gerados pelo NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+packages/
+*.dll
+*.exe
+
+## Ignore configurações locais
+.vs/
+.vscode/
+.idea/
+*.env
+
+## Ignore caches
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+*.vspscc
+*.vssscc
+
+## Ignore publicações locais
+publish/
+*.Publish.xml
+
+## Ignore arquivos do Azure
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+## Outros
+Thumbs.db
+Desktop.ini
